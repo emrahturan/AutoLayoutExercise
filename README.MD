@@ -24,12 +24,6 @@
                 </div>
             </td>
         </tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
-        <tr><td></td></tr>
         <tr>
             <td colspan="2">
                 <div align="center">
